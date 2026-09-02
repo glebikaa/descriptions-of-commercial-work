@@ -2,6 +2,66 @@
 
 ---
 
+**Frontend Developer (Ext JS / OpenLayers)**  
+
+---
+
+### 📌 Project
+**Technical Inventory CAD System**  
+A desktop-like SPA for technical inventory of real estate, enabling interactive drafting of floor plans and layout plans directly in the browser.
+
+---
+
+### 🚀 Key Contributions
+
+**CAD Canvas & Geometry**  
+- Built a full-featured CAD editor using OpenLayers and ol-ext
+- Implemented primitives: lines, arcs, rectangles, circles, polygons, walls, openings, stairs, columns, and equipment
+- Integrated snapping to vertices, edges, and orthogonals
+- Applied computational geometry (JSTS) for intersections, union/difference, and contour validation
+- Automated room detection by inner point, with cut/split/unite operations
+
+**Editing Tools**  
+- Developed vertex editing, proportional and non-proportional rotate/scale
+- Implemented multi-select, labels, and leaders
+- Added undo functionality and keyboard-driven draw/edit workflows
+
+**Rooms & Explication**  
+- Built room tree with area calculations and purpose classification
+- Integrated import of room lists from external property registry
+
+**Layout & Print**  
+- Created paper sheet management (format, scale, orientation)
+- Implemented raster georeferencing using Helmert transformation
+- Generated multi-page PDF exports with jsPDF
+
+**Data Exchange**  
+- Integrated DWG parsing via backend
+- Enabled geometry import/export between plans and external registry
+
+---
+
+### 🎯 Focus Areas
+
+> Web CAD · Computational Geometry · GIS · Desktop-like SPA  
+> Precision mapping where accuracy matters for property records
+
+---
+
+### 🛠 Tech Stack
+
+![Ext JS](https://img.shields.io/badge/Ext_JS-6.5-8B4513?style=for-the-badge&logo=sencha&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OpenLayers](https://img.shields.io/badge/OpenLayers_4-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white)
+![JSTS](https://img.shields.io/badge/JSTS-00A86B?style=for-the-badge&logo=location-based&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+
+---
+
 ---
 
 ## 🏢 (name company <---> NDA)  ###
