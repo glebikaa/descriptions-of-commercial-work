@@ -2,7 +2,7 @@
 
 ---
 
-## 🏢 NDA ###
+## 🏢 (name company <---> NDA)  ###
 **Frontend Developer (Next.js)**  
 
 ---
