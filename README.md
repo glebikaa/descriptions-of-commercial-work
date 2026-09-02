@@ -2,6 +2,7 @@
 
 ---
 
+## 🏢 (name company <---> NDA)  ###
 **Frontend Developer (Ext JS / OpenLayers)**  
 
 ---
