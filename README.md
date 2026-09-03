@@ -2,7 +2,77 @@
 
 ---
 
-## 🏢 (name company <---> NDA)  ###
+## 🏢 ( ### company name ### (nda) ) 
+**Frontend Developer (React / TypeScript)**
+
+### 📌 Project
+Cash & Valuables Vault Operations System
+A large-scale SPA for *** combining four workspaces in one application:
+
+**Operator** — storeroom / cash desk / cabin: shifts, processes, search, tables, visual floor plan
+
+**NSI** — currencies, denominations, accounts, documents, operation types, org structure, equipment
+
+**Admin** — users, roles, permissions, audit, system monitoring
+
+**Reports** — parameterized document generation (PDF / Office)
+
+### 🚀 Key Contributions
+- Built full Feature-Sliced slices for documents, operation types/groups, chart of accounts, currencies, denominations, org units, clients, and machines
+
+- Implemented Zod API contracts, React Query hooks, and React Hook Form CRUD with table filters and pagination
+
+- Wired cascading selects and domain-specific validation across large reference catalogs
+
+- Developed dynamic report forms driven by backend parameter definitions
+
+- Implemented cascaded dependsOn validation (disable / filter dependent selects)
+
+- Added export format selection and query-parameter normalization for PDF / DOCX / XLSX generation
+
+- Built user, role, and permission management with fine-grained RBAC
+
+- Implemented route-level permission guards on TanStack Router
+
+- Integrated cookie-based session and permission checks across workplaces
+
+- Built the Kubernetes pods workspace: CPU/RAM cards, tables, charts, and polling
+
+- Formatted live infrastructure metrics and time-range filters for operators
+
+- Delivered storeroom table flows and tab/breadcrumb navigation between warehouse contexts
+
+- Extended the shared Mantine UI kit (base + controlled form wrappers, tables, layout)
+
+- Implemented URL-driven filters (nuqs) and modal close via browser Back
+
+### 🎯 Focus Areas
+Enterprise SPA · Master data at scale · RBAC · Ops dashboards
+Product logic where a UI mistake can affect cash accounting and who may run vault operations
+
+### 🛠 Tech Stack
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+https://img.shields.io/badge/Feature_Sliced-0A1E3F?style=for-the-badge&logo=feature-sliced&logoColor=white
+https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white
+https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white
+https://img.shields.io/badge/TanStack_Router-FFB443?style=for-the-badge&logo=reactrouter&logoColor=white
+https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white
+https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white
+https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
+https://img.shields.io/badge/nuqs-6C47FF?style=for-the-badge&logo=nuqs&logoColor=white
+https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=zustand&logoColor=white
+https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=recharts&logoColor=white
+https://img.shields.io/badge/Konva-0D83CD?style=for-the-badge&logo=konva&logoColor=white
+https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white
+https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white
+
+---
+
+---
+
+## 🏢 ( ### company name ### (nda) ) 
 **Frontend Developer (Ext JS / OpenLayers)**  
 
 ---
@@ -60,12 +130,11 @@ A desktop-like SPA for technical inventory of real estate, enabling interactive 
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-
 ---
 
 ---
 
-## 🏢 (name company <---> NDA)  ###
+## 🏢 ( ### company name ### (nda) ) 
 **Frontend Developer (React / TypeScript)**  
 
 ---
@@ -136,7 +205,7 @@ A large-scale SPA for open-pit mining operations, supporting three workspaces in
 
 ---
 
-## 🏢 (name company <---> NDA)  ###
+## 🏢 ( ### company name ### (nda) ) 
 **Frontend Developer (Next.js)**  
 
 ---
