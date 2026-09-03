@@ -1,7 +1,5 @@
 # 💼 Commercial Experience
 
----
-
 ## 🏢 ( ### company name ### (nda) ) 
 **Frontend Developer (React / TypeScript)**
 
@@ -51,22 +49,22 @@ Enterprise SPA · Master data at scale · RBAC · Ops dashboards
 Product logic where a UI mistake can affect cash accounting and who may run vault operations
 
 ### 🛠 Tech Stack
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
-https://img.shields.io/badge/Feature_Sliced-0A1E3F?style=for-the-badge&logo=feature-sliced&logoColor=white
-https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white
-https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white
-https://img.shields.io/badge/TanStack_Router-FFB443?style=for-the-badge&logo=reactrouter&logoColor=white
-https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white
-https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white
-https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
-https://img.shields.io/badge/nuqs-6C47FF?style=for-the-badge&logo=nuqs&logoColor=white
-https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=zustand&logoColor=white
-https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=recharts&logoColor=white
-https://img.shields.io/badge/Konva-0D83CD?style=for-the-badge&logo=konva&logoColor=white
-https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white
-https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Feature-Sliced](https://img.shields.io/badge/Feature_Sliced-0A1E3F?style=for-the-badge&logo=feature-sliced&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-7.0-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-5.0-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-1.0-FFB443?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.0-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3.0-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-1.6-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![nuqs](https://img.shields.io/badge/nuqs-2.0-6C47FF?style=for-the-badge&logo=nuqs&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4.0-764ABC?style=for-the-badge&logo=zustand&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-2.0-22B5BF?style=for-the-badge&logo=recharts&logoColor=white)
+![Konva](https://img.shields.io/badge/Konva-9.0-0D83CD?style=for-the-badge&logo=konva&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-8.0-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ---
 
