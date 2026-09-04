@@ -8,40 +8,24 @@ Cash & Valuables Vault Operations System
 A large-scale SPA for *** combining four workspaces in one application:
 
 **Operator** — storeroom / cash desk / cabin: shifts, processes, search, tables, visual floor plan
-
 **NSI** — currencies, denominations, accounts, documents, operation types, org structure, equipment
-
 **Admin** — users, roles, permissions, audit, system monitoring
-
 **Reports** — parameterized document generation (PDF / Office)
 
 ### 🚀 Key Contributions
 - Built full Feature-Sliced slices for documents, operation types/groups, chart of accounts, currencies, denominations, org units, clients, and machines
-
 - Implemented Zod API contracts, React Query hooks, and React Hook Form CRUD with table filters and pagination
-
 - Wired cascading selects and domain-specific validation across large reference catalogs
-
 - Developed dynamic report forms driven by backend parameter definitions
-
 - Implemented cascaded dependsOn validation (disable / filter dependent selects)
-
 - Added export format selection and query-parameter normalization for PDF / DOCX / XLSX generation
-
 - Built user, role, and permission management with fine-grained RBAC
-
 - Implemented route-level permission guards on TanStack Router
-
 - Integrated cookie-based session and permission checks across workplaces
-
 - Built the Kubernetes pods workspace: CPU/RAM cards, tables, charts, and polling
-
 - Formatted live infrastructure metrics and time-range filters for operators
-
 - Delivered storeroom table flows and tab/breadcrumb navigation between warehouse contexts
-
 - Extended the shared Mantine UI kit (base + controlled form wrappers, tables, layout)
-
 - Implemented URL-driven filters (nuqs) and modal close via browser Back
 
 ### 🎯 Focus Areas
